@@ -1,0 +1,78 @@
+TALKS
+=====
+
+Part 1
+------
+
+09.15 Prof. Roger Whitaker: Welcome to Cardiff University
+
+09.30 Russell Keith-Magee: What on earth are Python & Django?
+Russell explains what they are, what you can do you with them and why you might want to - and why programming is much easier and more fun than you probably think.
+
+09.50 Mark Steadman: A web framework for the creative mind
+Mark discusses Django from the perspective of a content creator (weblogger, podcaster and in daylight hours a web developer).
+
+10.10 Rhiannon Titcomb: Understanding Bezier curves with Python
+Rhiannon discusses the mathematics of key computer graphics techniques using Python.
+
+10.30 Tom Bakx: Python in Astronomy
+Tom discusses the ways astronomers use Python to find and peer into far-away galaxies.
+
+
+Part 2
+------
+
+
+11.30 Cory Benfield: Security Vulnerabilities - A Story About Panic
+Cory tells a tale of every open-source project's worse nightmare: a report of a serious security flaw in the software.
+
+
+11.50 Amit Nabarro: RESTful APIs in Django
+Amit explains how Django developers can make use of the power of RESTful APIs in their projects.
+
+
+12.10 Yamila Moreno: Lessons learned
+Yamila discusses two years of making good and bad decisions in a large Django project, and lessons she wishes she didn't have to learn the hard way.
+
+
+12.30 Raphaël Barrois: Cyberponies - Django talks to machines
+Raphaël discusses Django's suitability for building systems that interface with thousands of remote machines, as part of an Internet of Things.
+
+
+Part 3
+------
+
+
+14.00 Adrienne Lowe: Coding with knives
+Adrienne describes what it's like for a professional chef to become a programmer - and why cooking and coding are not that different.
+
+
+14.20 Árni St. Sigurðsson: Data-driven democracy
+Árni discusses a mission using Django data-gathering tools to help the electorate in Iceland make better-informed decisions.
+
+
+14.40 Žan Anderle: Mistakes and lessons in developing user experience
+Žan discusses how any development team can improve the user experience of their applications.
+
+
+15.00 Alasdair Nicol: Ponies and moustaches, or Templates in Django
+Alasdair introduces one of Django's notable new features, its support for multiple template engines, and explains why it matters (and what moustaches are).
+
+
+Part 4
+------
+
+16.00 Christopher Hunt: Arduino sensors, mobile apps and virtual reality
+Christopher explores how Django can integrate with all sorts of physical devices to capture, transmit, store, visualise and derive intelligence from data.
+
+
+16.20 Katharine Jarmul: Data wrangling with Python
+Katharine offers a whirlwind introduction to the Python tools that will help get wild and unruly data under control.
+
+
+16.40 Rivo Laks: Django and the real-time web
+Rivo discusses the rise of the real-time web, and some tools and techniques to help put it into practice.
+
+
+17.00 Jamie Hannaford: Making our spaces more inclusive
+Jamie discusses the social issues of an industry where dealing with code is easy, but dealing with people can be very hard.
