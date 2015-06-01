@@ -1,15 +1,8 @@
-TALKS
-
-=====
-
-
-
 Part 1
-
 ------
 
 Russell Keith-Magee: What on earth are Python & Django?
-
+=======================================================
 Russell explains what they are, what you can do you with them and why you might want to - and why programming is much easier and more fun than you probably think.
 
 Simple introduction to what you can achieve with python/django and why you won't come back to a exel file.
@@ -17,7 +10,7 @@ Simple introduction to what you can achieve with python/django and why you won't
 
 
 Mark Steadman: A web framework for the creative mind
-
+====================================================
 Mark discusses Django from the perspective of a content creator (weblogger, podcaster and in daylight hours a web developer).
 
 @iamsteadman - creator of poddle
@@ -35,8 +28,9 @@ podcast.poddle.io
 The slack website is quite new
 
 
-Rhiannon Titcomb: Understanding Bezier curves with Python
 
+Rhiannon Titcomb: Understanding Bezier curves with Python
+=========================================================
 Rhiannon discusses the mathematics of key computer graphics techniques using Python.
 https://github.com/RhiannonT/Bezier-Curves
 
@@ -45,7 +39,7 @@ No django here, but you wan check it out on github. (I made a pull request to he
 
 
 Tom Bakx: Python in Astronomy
-
+=============================
 Tom discusses the ways astronomers use Python to find and peer into far-away galaxies.
 
 Talks begins with one image from hubble. Then show with python processing what we can achieve. 3D Simulation are really beautiful. (But the cake is a lie, they probably have been made with a C or C++ code) but most of the time, he uses python. 
@@ -55,11 +49,11 @@ Also talks a little bit of einstein ring if interested.
 
 
 Part 2
-
 ------
 
-Cory Benfield: Security Vulnerabilities - A Story About Panic
 
+Cory Benfield: Security Vulnerabilities - A Story About Panic
+=============================================================
 Cory tells a tale of every open-source project's worse nightmare: a report of a serious security flaw in the software.
 
 @lukasaoz on twitter - @lukasa on github
@@ -74,7 +68,7 @@ slides on: https://speakerdeck.com/lukasa/security-vulnerabilities-a-story-about
 
 
 Amit Nabarro: RESTful APIs in Django
-
+====================================
 Amit explains how Django developers can make use of the power of RESTful APIs in their projects.
 @amitnabarro
 .. use a rest app with django rest framework or tastypie. (avoid piston, unmaintained)
@@ -85,7 +79,7 @@ expectations: serialization, pagination, validation auth, authorization, throttl
 
 
 Yamila Moreno: Lessons learned
-
+==============================
 Yamila discusses two years of making good and bad decisions in a large Django project, and lessons she wishes she didn't have to learn the hard way.
 
 slides on: http://yamila-moreno.github.io/lessons-i-learned-during-a-django-project/#/
@@ -107,7 +101,7 @@ Documentation driven development. (wow... In fact, during the Q/A session, she a
 
 
 Raphaël Barrois: Cyberponies - Django talks to machines [French guy]
-
+====================================================================
 Raphaël discusses Django's suitability for building systems that interface with thousands of remote machines, as part of an Internet of Things.
 
 http://slides.xelnor.net/2015/djangocon_eu/cyberponies/#slide1
@@ -133,17 +127,11 @@ Use of websocket? It would require more bandwidth...
 
 
 
-
 Part 3
-
 ------
 
-
-
-
-
-14.00 Adrienne Lowe: Coding with knives
-
+Adrienne Lowe: Coding with knives
+=======================================
 Adrienne describes what it's like for a professional chef to become a programmer - and why cooking and coding are not that different.
 
 The talk is really nice but it is more the journey of discovering django and coming from a non technical background than a tech talk.
@@ -151,15 +139,15 @@ The talk is really nice but it is more the journey of discovering django and com
 
 
 Árni St. Sigurðsson: Data-driven democracy
-
+==========================================
 Árni discusses a mission using Django data-gathering tools to help the electorate in Iceland make better-informed decisions.
 Well.. The technical part of the talk was almost inexistant. It is most a talk about how we could use data for politics and decision making in politics/democracy.
 [I had trouble understanding this guy accent] 
 
 
 
-
 Žan Anderle: Mistakes and lessons in developing user experience
+===============================================================
 Žan discusses how any development team can improve the user experience of their applications.
 
 works at datafy.it
@@ -180,6 +168,7 @@ TL;DR take care of the UX
 
 
 Alasdair Nicol: Ponies and moustaches, or Templates in Django
+=============================================================
 @al_sdair
 Alasdair introduces one of Django's notable new features, its support for multiple template engines, and explains why it matters (and what moustaches are).
 
@@ -194,13 +183,10 @@ moustache implementation for django
 
 
 Part 4
-
 ------
 
-
-
 Christopher Hunt: Arduino sensors, mobile apps and virtual reality
-
+==================================================================
 Christopher explores how Django can integrate with all sorts of physical devices to capture, transmit, store, visualise and derive intelligence from data.
 
 @thisischrist
@@ -209,10 +195,8 @@ if the talk was interesting, (the guy good orator), i did not take any interesti
 
 
 
-
-
-16.20 Katharine Jarmul: Data wrangling with Python
-
+Katharine Jarmul: Data wrangling with Python
+==================================================
 Katharine offers a whirlwind introduction to the Python tools that will help get wild and unruly data under control.
 
 @kjam
@@ -233,10 +217,8 @@ see nltk (natural language toolkit), match word for fatfinger: https://github.co
 
 
 
-
-
 Rivo Laks: Django and the real-time web
-
+=======================================
 Rivo discusses the rise of the real-time web, and some tools and techniques to help put it into practice.
 
 django is 10yo
@@ -267,8 +249,8 @@ also, django + websockets --> check out swarmdragon
 
 
 
-17.00 Jamie Hannaford: Making our spaces more inclusive
-
+Jamie Hannaford: Making our spaces more inclusive
+=================================================
 Jamie discusses the social issues of an industry where dealing with code is easy, but dealing with people can be very hard.
 
 That talk was really really good about the importance of diversity and how we should act to helps it become the standard. It is 0% technical but 100% interesting.
